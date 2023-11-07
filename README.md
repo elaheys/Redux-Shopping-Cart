@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+you can see my app live here:
+https://redux-shopping-cart-ell.netlify.app
+
+![Screenshot 2023-11-07 160850](https://github.com/elaheys/Redux-Shopping-Cart/assets/112415062/5a305079-b832-4897-ba5f-03cd8c1521ea)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
